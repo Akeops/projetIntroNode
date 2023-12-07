@@ -1,0 +1,20 @@
+{
+  "name": "projetintronode",
+  "version": "1.0.0",
+  "description": "Petit projet pour se faire la main sur l'installatin de node",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akeops/projetIntroNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akeops/projetIntroNode/issues"
+  },
+  "homepage": "https://github.com/Akeops/projetIntroNode#readme"
+}
